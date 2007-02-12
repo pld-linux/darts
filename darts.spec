@@ -1,5 +1,5 @@
 Summary:	Double ARray Trie System
-Summary(pl):	System DARTS (Double ARray Trie System)
+Summary(pl.UTF-8):   System DARTS (Double ARray Trie System)
 Name:		darts
 Version:	0.2
 Release:	1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Double ARray Trie System.
 
-%description -l pl
+%description -l pl.UTF-8
 System DARTS (Double ARray Trie System).
 
 %prep
