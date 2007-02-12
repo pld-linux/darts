@@ -1,5 +1,5 @@
 Summary:	Double ARray Trie System
-Summary(pl.UTF-8):   System DARTS (Double ARray Trie System)
+Summary(pl.UTF-8):	System DARTS (Double ARray Trie System)
 Name:		darts
 Version:	0.2
 Release:	1
