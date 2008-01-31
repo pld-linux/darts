@@ -2,7 +2,7 @@ Summary:	Double ARray Trie System
 Summary(pl.UTF-8):	System DARTS (Double ARray Trie System)
 Name:		darts
 Version:	0.2
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Libraries
 Source0:	http://cl.aist-nara.ac.jp/~taku-ku/software/darts/src/%{name}-%{version}.tar.gz
